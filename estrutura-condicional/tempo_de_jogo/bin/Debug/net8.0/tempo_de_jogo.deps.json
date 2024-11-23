@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tempo_de_jogo/1.0.0": {
+        "runtime": {
+          "tempo_de_jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tempo_de_jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

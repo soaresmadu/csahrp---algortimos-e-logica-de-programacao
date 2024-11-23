@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\bin\Debug\net8.0\tempo_de_jogo.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\bin\Debug\net8.0\tempo_de_jogo.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\bin\Debug\net8.0\tempo_de_jogo.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\bin\Debug\net8.0\tempo_de_jogo.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\bin\Debug\net8.0\tempo_de_jogo.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\refint\tempo_de_jogo.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\tempo_de_jogo.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\tempo_de_jogo\obj\Debug\net8.0\ref\tempo_de_jogo.dll

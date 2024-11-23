@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\bin\Debug\net8.0\maior_posicao.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\bin\Debug\net8.0\maior_posicao.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\bin\Debug\net8.0\maior_posicao.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\bin\Debug\net8.0\maior_posicao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\bin\Debug\net8.0\maior_posicao.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\refint\maior_posicao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\maior_posicao.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\maior_posicao\obj\Debug\net8.0\ref\maior_posicao.dll

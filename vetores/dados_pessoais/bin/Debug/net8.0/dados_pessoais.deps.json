@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dados_pessoais/1.0.0": {
+        "runtime": {
+          "dados_pessoais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dados_pessoais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

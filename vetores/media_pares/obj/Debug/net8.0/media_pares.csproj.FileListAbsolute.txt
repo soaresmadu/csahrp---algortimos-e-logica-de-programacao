@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\bin\Debug\net8.0\media_pares.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\bin\Debug\net8.0\media_pares.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\bin\Debug\net8.0\media_pares.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\bin\Debug\net8.0\media_pares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\bin\Debug\net8.0\media_pares.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\refint\media_pares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\media_pares.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\media_pares\obj\Debug\net8.0\ref\media_pares.dll

@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\bin\Debug\net8.0\dados_pessoais.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\bin\Debug\net8.0\dados_pessoais.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\bin\Debug\net8.0\dados_pessoais.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\bin\Debug\net8.0\dados_pessoais.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\bin\Debug\net8.0\dados_pessoais.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\refint\dados_pessoais.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\dados_pessoais.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\dados_pessoais\obj\Debug\net8.0\ref\dados_pessoais.dll

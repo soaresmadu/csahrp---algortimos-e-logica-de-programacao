@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\bin\Debug\net8.0\sequencia_impares.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\bin\Debug\net8.0\sequencia_impares.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\bin\Debug\net8.0\sequencia_impares.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\bin\Debug\net8.0\sequencia_impares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\bin\Debug\net8.0\sequencia_impares.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\refint\sequencia_impares.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\sequencia_impares.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\sequencia_impares\obj\Debug\net8.0\ref\sequencia_impares.dll

@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\bin\Debug\net8.0\validacao_de_nota.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\bin\Debug\net8.0\validacao_de_nota.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\bin\Debug\net8.0\validacao_de_nota.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\bin\Debug\net8.0\validacao_de_nota.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\bin\Debug\net8.0\validacao_de_nota.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\refint\validacao_de_nota.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\validacao_de_nota.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\validacao_de_nota\obj\Debug\net8.0\ref\validacao_de_nota.dll

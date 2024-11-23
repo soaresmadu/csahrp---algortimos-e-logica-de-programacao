@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sequencia_impares/1.0.0": {
+        "runtime": {
+          "sequencia_impares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sequencia_impares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

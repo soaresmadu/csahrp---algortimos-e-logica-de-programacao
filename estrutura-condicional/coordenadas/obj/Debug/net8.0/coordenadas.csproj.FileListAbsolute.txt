@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\bin\Debug\net8.0\coordenadas.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\bin\Debug\net8.0\coordenadas.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\bin\Debug\net8.0\coordenadas.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\bin\Debug\net8.0\coordenadas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\bin\Debug\net8.0\coordenadas.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\refint\coordenadas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\coordenadas.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\coordenadas\obj\Debug\net8.0\ref\coordenadas.dll

@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\bin\Debug\net8.0\divisao.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\bin\Debug\net8.0\divisao.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\bin\Debug\net8.0\divisao.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\bin\Debug\net8.0\divisao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\bin\Debug\net8.0\divisao.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\refint\divisao.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\divisao.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\divisao\obj\Debug\net8.0\ref\divisao.dll

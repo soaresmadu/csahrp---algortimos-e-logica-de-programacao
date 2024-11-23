@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\bin\Debug\net8.0\dentro_fora.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\bin\Debug\net8.0\dentro_fora.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\bin\Debug\net8.0\dentro_fora.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\bin\Debug\net8.0\dentro_fora.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\bin\Debug\net8.0\dentro_fora.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\refint\dentro_fora.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\dentro_fora.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\dentro_fora\obj\Debug\net8.0\ref\dentro_fora.dll

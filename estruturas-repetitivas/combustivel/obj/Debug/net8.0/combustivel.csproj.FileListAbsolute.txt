@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\bin\Debug\net8.0\combustivel.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\bin\Debug\net8.0\combustivel.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\bin\Debug\net8.0\combustivel.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\bin\Debug\net8.0\combustivel.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\bin\Debug\net8.0\combustivel.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\refint\combustivel.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\combustivel.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\combustivel\obj\Debug\net8.0\ref\combustivel.dll

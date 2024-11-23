@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\bin\Debug\net8.0\comerciante.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\bin\Debug\net8.0\comerciante.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\bin\Debug\net8.0\comerciante.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\bin\Debug\net8.0\comerciante.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\bin\Debug\net8.0\comerciante.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\refint\comerciante.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\comerciante.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\comerciante\obj\Debug\net8.0\ref\comerciante.dll

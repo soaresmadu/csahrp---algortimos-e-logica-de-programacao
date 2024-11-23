@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\bin\Debug\net8.0\abaixo_da_media.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\bin\Debug\net8.0\abaixo_da_media.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\bin\Debug\net8.0\abaixo_da_media.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\bin\Debug\net8.0\abaixo_da_media.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\bin\Debug\net8.0\abaixo_da_media.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\refint\abaixo_da_media.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\abaixo_da_media.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - vetores\abaixo_da_media\obj\Debug\net8.0\ref\abaixo_da_media.dll

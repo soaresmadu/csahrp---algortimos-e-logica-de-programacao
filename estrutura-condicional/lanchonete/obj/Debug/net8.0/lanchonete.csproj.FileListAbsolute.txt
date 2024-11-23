@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\bin\Debug\net8.0\lanchonete.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\bin\Debug\net8.0\lanchonete.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\bin\Debug\net8.0\lanchonete.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\bin\Debug\net8.0\lanchonete.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\bin\Debug\net8.0\lanchonete.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\refint\lanchonete.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\lanchonete.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura condicional\lanchonete\obj\Debug\net8.0\ref\lanchonete.dll

@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\bin\Debug\net8.0\soma_linhas.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\bin\Debug\net8.0\soma_linhas.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\bin\Debug\net8.0\soma_linhas.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\bin\Debug\net8.0\soma_linhas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\bin\Debug\net8.0\soma_linhas.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\refint\soma_linhas.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\soma_linhas.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_linhas\obj\Debug\net8.0\ref\soma_linhas.dll

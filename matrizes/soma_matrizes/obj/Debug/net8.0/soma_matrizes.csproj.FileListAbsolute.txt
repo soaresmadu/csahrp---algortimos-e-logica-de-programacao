@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\bin\Debug\net8.0\soma_matrizes.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\bin\Debug\net8.0\soma_matrizes.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\bin\Debug\net8.0\soma_matrizes.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\bin\Debug\net8.0\soma_matrizes.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\bin\Debug\net8.0\soma_matrizes.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\refint\soma_matrizes.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\soma_matrizes.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\soma_matrizes\obj\Debug\net8.0\ref\soma_matrizes.dll

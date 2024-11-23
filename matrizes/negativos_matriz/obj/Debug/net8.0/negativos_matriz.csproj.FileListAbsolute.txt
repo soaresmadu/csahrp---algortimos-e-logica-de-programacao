@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\bin\Debug\net8.0\negativos_matriz.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\bin\Debug\net8.0\negativos_matriz.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\bin\Debug\net8.0\negativos_matriz.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\bin\Debug\net8.0\negativos_matriz.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\bin\Debug\net8.0\negativos_matriz.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\refint\negativos_matriz.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\negativos_matriz.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\negativos_matriz\obj\Debug\net8.0\ref\negativos_matriz.dll

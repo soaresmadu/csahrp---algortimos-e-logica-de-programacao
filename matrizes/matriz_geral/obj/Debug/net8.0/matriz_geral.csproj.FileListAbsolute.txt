@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\bin\Debug\net8.0\matriz_geral.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\bin\Debug\net8.0\matriz_geral.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\bin\Debug\net8.0\matriz_geral.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\bin\Debug\net8.0\matriz_geral.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\bin\Debug\net8.0\matriz_geral.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\refint\matriz_geral.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\matriz_geral.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\matriz_geral\obj\Debug\net8.0\ref\matriz_geral.dll

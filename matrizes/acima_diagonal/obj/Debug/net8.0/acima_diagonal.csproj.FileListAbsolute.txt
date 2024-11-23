@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\bin\Debug\net8.0\acima_diagonal.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\bin\Debug\net8.0\acima_diagonal.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\bin\Debug\net8.0\acima_diagonal.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\bin\Debug\net8.0\acima_diagonal.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\bin\Debug\net8.0\acima_diagonal.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\refint\acima_diagonal.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\acima_diagonal.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\acima_diagonal\obj\Debug\net8.0\ref\acima_diagonal.dll

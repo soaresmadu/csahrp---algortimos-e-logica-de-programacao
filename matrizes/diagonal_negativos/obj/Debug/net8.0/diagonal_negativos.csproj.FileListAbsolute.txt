@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\refint\diagonal_negativos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - matrizes\diagonal_negativos\obj\Debug\net8.0\ref\diagonal_negativos.dll

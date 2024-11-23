@@ -1,0 +1,14 @@
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\bin\Debug\net8.0\pares_consecutivos.exe
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\bin\Debug\net8.0\pares_consecutivos.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\bin\Debug\net8.0\pares_consecutivos.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\bin\Debug\net8.0\pares_consecutivos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\bin\Debug\net8.0\pares_consecutivos.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\refint\pares_consecutivos.dll
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\pares_consecutivos.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\Curso Lógica de Programação e Algoritmos\csharp - estrutura repetitiva\pares_consecutivos\obj\Debug\net8.0\ref\pares_consecutivos.dll
